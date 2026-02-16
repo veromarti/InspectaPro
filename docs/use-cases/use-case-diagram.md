@@ -9,6 +9,6 @@ It focuses on core business processes related to inspection management and execu
 | Company Admin         | Manages inspection definitions, assignments and reviews results |
 | Technician            | Executes assigned inspections and submits results               |
 
-
+## Use Case Diagram
 
 ![Use Case Diagram](/static/img/use-cases/use-case-diagram.png)
